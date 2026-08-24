@@ -1,0 +1,6 @@
+{
+  "name": "Game Engine Persian Gulf",
+  "description": "Native 2D/2.5D game development IDE with visual node scripting, physics viewport, enemy AI, inventory systems, and Persian Gulf aesthetic",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
